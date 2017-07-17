@@ -1,6 +1,6 @@
 defmodule KataBankOcrElixir.Mixfile do
   use Mix.Project
-
+  
   def project do
     [app: :kata_bank_ocr_elixir,
      version: "0.1.0",
